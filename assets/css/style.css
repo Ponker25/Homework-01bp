@@ -125,6 +125,7 @@ nav a:first-child {
     color: #4aaaa5;
     font-size: 18px;
     padding: 10px;
+    margin-right: 90px;
 }
 
 .about {
@@ -238,6 +239,46 @@ h3, .sidebar, h2 {
     margin-bottom: 0;
     font-weight:300;
 }
+
+#contact-form ul {
+    margin-bottom: 20px;
+}
+
+#contat-form li {
+    margin-bottom: 10px;
+}
+
+label,
+input[type=text],
+input[type=email],
+textarea {
+    display: block;
+    width: 100%;
+}
+
+input[type=text],
+input[type=email],
+textarea {
+    height: 35px;
+    border:1px solid #ddd;
+    padding: 0 10px;
+    font-size: 14px;
+}
+
+textarea {
+    height: 200px;
+}
+
+
+.submit {
+    background: #4aaaa5;
+    border: 0 none;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 30px;
+    cursor: pointer;
+}
+
 #footer {
     clear:both;
     background: #666666;
@@ -251,11 +292,6 @@ h3, .sidebar, h2 {
 }
 
 #contact-form {
-    padding: 10px;
-    line-height: 24px;
-
-}
-
-.submit {
-    
+    padding: 0px;
+    line-height: 35px;
 }
