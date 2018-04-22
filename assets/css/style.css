@@ -1,0 +1,172 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background:seashell; 
+    border: auto; 
+    margin: auto;
+    line-height: 34px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777;
+    height: 690px;
+    https://www.toptal.com/designers/subtlepatterns/patterns/old_moon.zip
+}
+
+
+.masthead {
+    color:white;
+    background:#ffffff;
+    border:#cccccc;
+    padding:0px;
+    margin: 0 auto;
+    z-index: 99;
+    overflow: auto;
+    border-bottom: 2px solid #ccc;
+    position: fixed;
+    width: 100%;
+    height: 
+
+
+}
+
+.container {
+    width: 100%;
+    max-width: 960px;
+    background:#ffffff;
+    border: #dddddd;
+    padding: 10px;
+    height: 400px;
+    margin: 0 auto;
+    width: 70%;
+    line-height: 10px;
+    clear: both;
+    
+
+}
+
+#logo {
+    width: 250 px;
+    height: 90px;
+    background: #4aaaa5;
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    line-height: 90px;
+    color:#fff;
+    font-weight: 700;
+    font-size: 24px;
+    text-decoration: none;
+}
+.header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin-left: 160px;
+
+
+
+}
+
+#img {
+    float: left;
+    padding:10px;
+    margin: 10 px;
+
+}
+
+.portfolio {
+    float:right;
+    color: #4aaaa5;
+    font-size: 18px;
+    margin-right: 0px;
+    padding: 10px;
+}
+
+.contact {
+    float: right;
+    color: #4aaaa5;
+    font-size: 18px;
+    float;
+    margin-right: 0px;
+    padding: 10px;
+}
+
+.about {
+    color: #4aaaa5;
+    font-size: 18px;
+    float:right;
+    margin-right: 0px;
+    padding: 10px;
+
+}
+
+#main-container {
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#4aaaa5;
+    font-weight: bold;
+    padding: 25px;
+
+
+}
+
+#p1 {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+    padding: 0px;
+    margin: auto;
+
+
+}
+
+#p2 {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+    padding: 5px;
+}
+
+#p3 {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+    padding: 5px;
+}
+
+.sidebar {
+
+}
+#connect {
+    padding:15px;
+}
+
+.social {
+
+}
+
+.work {
+
+}
+
+#footer {
+    clear: both;
+    background: #666666;
+    text-align: center;
+    color: white;
+    padding:30px;
+    margin-bottom: 0px;
+    border-top-color: blue;
+    border-top-width: 5px;
+
+}
+
+#contact-form {
+    padding: 10px;
+
+}
+
+.submit {
+    
+}
